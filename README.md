@@ -1,1 +1,1 @@
-# Bezierjeva_krivulja_Tomos
+# Tomos_Logo
