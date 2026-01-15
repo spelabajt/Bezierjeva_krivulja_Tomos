@@ -8,7 +8,7 @@ The third version of the logo was created using Bézier curves, which are based 
 
 
 ---
-!(tomos.png)
+!(tomos.jpg)
 ---
 
 
