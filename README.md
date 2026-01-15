@@ -2,12 +2,12 @@
   <h1>Tomos logo design using multiple graphic techniques</h1>
 </div>
 
-##Project Overview
+## Project Overview
 As part of the project assignment, one of the requirements was to create a logo using three different graphic approaches in order to demonstrate the differences between various computer graphics techniques. The goal was to compare vector-based and raster-based graphics and to understand their practical use in digital environments.
 
 
 
-###SVG and PNG Logo Versions
+### SVG and PNG Logo Versions
 The first version of the logo was created as an SVG (Scalable Vector Graphics) image, which allows unlimited scaling without loss of quality and is suitable for use in both digital and printed media. The second version was created as a PNG (Portable Network Graphics) raster image, which is composed of individual pixels and is primarily intended for display on screens.
 
 ##Logo Created with Bézier Curves
