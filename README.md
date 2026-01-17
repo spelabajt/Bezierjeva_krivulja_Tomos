@@ -6,7 +6,7 @@
 As part of the project assignment, one of the requirements was to create a logo using three different graphic approaches in order to demonstrate the differences between various computer graphics techniques. The goal was to compare vector-based and raster-based graphics and to understand their practical use in digital environments.
 
 <p align="center">
-  <img src="images/tomos1.jpg" alt="Tomos logo" width="300">
+  <img src="images/tomos.svg" alt="Tomos logo" width="300">
 </p>
 
 ### SVG and PNG Logo Versions
